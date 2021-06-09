@@ -2,6 +2,8 @@
 
 게임공학 최종 프로젝트 CatInTheMachine
 
+
+
 -- Description -- 
 
 
@@ -13,9 +15,14 @@
 
 
 
+
+
 2. 팀원 깃허브 Link
 
 
+
 안정근 : https://github.com/wingker2
+
+
 
 이다흥 : https://github.com/heungdol
