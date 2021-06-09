@@ -8,7 +8,9 @@
 
 1. 다운로드 및 실행
 
- -- Link --
+ - https://drive.google.com/file/d/1tZSMR3uh1LlKw6xuJtN-NVKG0eBkcYOA/view?usp=sharing 에서 게임 다운로드
+ - 압축 해제 후 
+
 
 
 2. 팀원 깃허브 Link
