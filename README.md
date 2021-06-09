@@ -11,7 +11,7 @@
 1. 다운로드 및 실행
 
  - https://drive.google.com/file/d/1tZSMR3uh1LlKw6xuJtN-NVKG0eBkcYOA/view?usp=sharing 에서 게임 다운로드
- - 압축 해제 후 
+ - 압축 해제 후 Test_Test 파일 실행
 
 
 
