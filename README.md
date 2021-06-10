@@ -1,6 +1,8 @@
 # CatInTheMachine
 
-게임공학 최종 프로젝트 CatInTheMachine
+게임공학 최종 프로젝트 
+
+CatInTheMachine
 
 * 현재 보스 스테이지 이펙트 사운드가 비정상적으로 큰 것이 확인돼어서 수정중입니다.
 
