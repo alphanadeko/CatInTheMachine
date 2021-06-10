@@ -1,6 +1,6 @@
 # CatInTheMachine
 
-![gameLogo](./logo_white_blackBack.png)
+![gameLogo](./Image/logo_white_blackBack.png)
 
 
 * 현재 보스 스테이지 이펙트 사운드가 비정상적으로 큰 것이 확인돼어서 수정중입니다.
@@ -25,7 +25,13 @@
 
 
 3. 플레이 스크린 샷
-
+![screenShot](./Image/play2.gif)
+![screenShot](./Image/play1.gif)
+![screenShot](./Image/play6.gif)
+![screenShot](./Image/play0.gif)
+![screenShot](./Image/play4.gif)
+![screenShot](./Image/play5.gif)
+![screenShot](./Image/play3.gif)
 
 
 
