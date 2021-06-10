@@ -1,9 +1,9 @@
 # CatInTheMachine
 
-게임공학 최종 프로젝트 CatInTheMachine
+![gameLogo](./Image/logo_white_blackBack.png)
+
 
 * 현재 보스 스테이지 이펙트 사운드가 비정상적으로 큰 것이 확인돼어서 수정중입니다.
-
 
 
 
@@ -24,12 +24,20 @@
  - E키로 폭탄과 상호작용 (1회 -집기, 2회 - 던지기)
 
 
-3. 팀원 깃허브 Link
+3. 플레이 스크린 샷
+![screenShot](./Image/play2.gif)
+![screenShot](./Image/play1.gif)
+![screenShot](./Image/play6.gif)
+![screenShot](./Image/play0.gif)
+![screenShot](./Image/play4.gif)
+![screenShot](./Image/play5.gif)
+![screenShot](./Image/play3.gif)
 
+
+
+4. 팀원 깃허브 Link
 
 
 안정근 : https://github.com/wingker2
-
-
 
 이다흥 : https://github.com/heungdol
