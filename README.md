@@ -3,9 +3,6 @@
 ![gameLogo](./Image/logo_white_blackBack.png)
 
 
-* 현재 보스 스테이지 이펙트 사운드가 비정상적으로 큰 것이 확인돼어서 수정중입니다.
-
-
 
 -- Description -- 
 
